@@ -1,5 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://ibb.co/zsr0KT1)
+
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+
+[](https://ibb.co/zsr0KT1)
+
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
