@@ -20,15 +20,15 @@
 
 - 🤝 I’m looking for help with [to explore more in Open Source.](#)
 
-- 👨‍💻 All of my projects are available at [#add-protfolio-link#](#add-protfolio-link#)
+- 👨‍💻 All of my projects are available at [#add-protfolio-link#](protfolio)
 
-- 📝 I regularly write articles on [#add-blogs-link#](#add-blogs-link#)
+- 📝 I regularly write articles on [#add-blogs-link#](blog)
 
 - 💬 Ask me about **Html, CSS, Python.**
 
 - 📫 How to reach me **sandeepvinnu852@gmail.com**
 
-- 📄 Know about my experiences [#add-resume-link#](#add-resume-link#)
+- 📄 Know about my experiences [#add-resume-link#](resume)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -52,6 +52,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandeepkumar29"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandeepkumar29" /></a></p><br><br>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepvinnu&show_icons=true&locale=en&layout=compact" alt="sandeepvinnu" /></p>
 
