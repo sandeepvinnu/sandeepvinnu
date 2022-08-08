@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 
-[](https://ibb.co/zsr0KT1)
+<img src="https://i.ibb.co/tB4WyTS/IMG-7706.jpg" alt="IMG-7706" border="0">
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
