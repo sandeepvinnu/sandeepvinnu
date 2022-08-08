@@ -21,15 +21,15 @@
 
 - 🤝 I’m looking for help with [to explore more in Open Source.](#)
 
-- 👨‍💻 All of my projects are available at [#add-protfolio-link#](protfolio)
+- 👨‍💻 All of my projects are available at [](protfolio)
 
-- 📝 I regularly write articles on [#add-blogs-link#](blog)
+- 📝 I regularly write articles on [](blog)
 
 - 💬 Ask me about **Html, CSS, Python.**
 
 - 📫 How to reach me **sandeepvinnu852@gmail.com**
 
-- 📄 Know about my experiences [#add-resume-link#](resume)
+- 📄 Know about my experiences [](resume)
 
 - ⚡ Fun fact **I think I am funny**
 
