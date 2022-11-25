@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepvinnu" alt="sandeepvinnu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sankumar_29" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep18968641?logo=twitter&style=for-the-badge" alt="sandeep18968641" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sankumar_29" target="blank"><img src="https://img.shields.io/twitter/follow/sankumar_29?logo=twitter&style=for-the-badge" alt="sankumar_29" /></a> </p>
 
 - 🔭 I’m currently Looking for [Remote Job](#)
 
