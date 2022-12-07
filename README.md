@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 
-<img src="https://i.ibb.co/Mspwp8h/banner-1.jpg" alt="banner-1" border="0">
+<!-- <img src="https://i.ibb.co/Mspwp8h/banner-1.jpg" alt="banner-1" border="0"> -->
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
