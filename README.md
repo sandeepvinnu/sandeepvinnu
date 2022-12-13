@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+<h1 align="center">Hi 👋, I'm ReduX</h1>
 
 <!-- <img src="https://i.ibb.co/Mspwp8h/banner-1.jpg" alt="banner-1" border="0"> -->
 
