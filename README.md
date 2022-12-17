@@ -45,13 +45,13 @@
 
 - **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![React](https://img.shields.io/badge/React%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
-    ![Node.JS](https://img.shields.io/badge/Node.JS%20-%232370ED.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%23054060.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![React](https://img.shields.io/badge/React%20-%2300acee.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![Node.JS](https://img.shields.io/badge/Node.JS%20-%2305D020.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.JS](https://img.shields.io/badge/Express.JS%20-%2300599C.svg?style=for-the-badge&logo=express.js%2B%2B&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2314354C.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite%20-%232370ED.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![Redux](https://img.shields.io/badge/Redux%20-%232370ED.svg?style=for-the-badge&logo=redux&logoColor=white)
+    ![Redux](https://img.shields.io/badge/Redux%20-%23F05033.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <br>   
     
@@ -131,11 +131,11 @@
 </a>
 
 <a href="mailto:sandeepvinnu852@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  sanKumar29-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  sanKumar29-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://discord.com/" target="_blank">
-<img src="https://img.shields.io/badge/discord:  Redux#7546-%23EA4335.svg?style=for-the-badge&logo=discord&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/discord:  Redux#7546-%23EA4335.svg?style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;" />
 </a>
 
     
