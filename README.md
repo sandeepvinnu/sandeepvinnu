@@ -17,7 +17,7 @@
 
 <br>
 
-- 🔭 I’m currently open for an Intern or a new job opportunity, this is <a href="https://drive.google.com/file/d/1h_G8md5gbwK4F2C-zs-37fHHNCohKl4q/view?usp=sharing" target="blank">My Resume</a>
+- 🔭 I’m currently open for an Intern or a new job opportunity, this is <a href="https://bit.ly/3pHC369" target="blank">My Resume</a>
 
 - 🌱 A passionate Self-taught Full-Stack & Front-end developer
 
